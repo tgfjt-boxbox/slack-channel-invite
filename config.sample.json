@@ -1,0 +1,10 @@
+{
+  "slack_token": "",
+  "users": [
+    "tgfjt"
+  ],
+  "channels": [
+    "general",
+    "random"
+  ]
+}
